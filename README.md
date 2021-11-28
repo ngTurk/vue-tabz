@@ -1,6 +1,9 @@
 # Vue-Tabz [![npm version](https://img.shields.io/npm/v/vue-tabz.svg)](https://www.npmjs.com/package/vue-tabz)
 
 A Lightweight and flexible underlined tabs component for VueJS ⚡
+# Demo
+
+[Live Demo](https://61a2c69062d57a9e4da90ca5--condescending-borg-5673b3.netlify.app/)
 
 # Installing
 
