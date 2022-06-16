@@ -12,6 +12,9 @@
     "type": "git",
     "url": "https://github.com/ngTurk/vue-tabz"
   },
+  "publishConfig": {
+    "registry":"https://www.npmjs.com/package/vue-tabz"
+  },
   "files": [
     "dist/*"
   ],
