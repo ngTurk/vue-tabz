@@ -1,6 +1,6 @@
 {
   "name": "vue-tabz",
-  "version": "1.1.7",
+  "version": "1.2.0",
   "description": "A Lightweight and flexible underlined tabs component for VueJS",
   "private": false,
   "main": "./dist/index.js",
@@ -10,9 +10,6 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/ngTurk/vue-tabz"
-  },
-  "publishConfig": {
-    "registry": "https://www.npmjs.com/package/vue-tabz"
   },
   "files": [
     "dist/*"
